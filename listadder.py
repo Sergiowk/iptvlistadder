@@ -5,6 +5,8 @@ from functions import *
 
 driver = initialize()
 
+
 insertlist(driver)
+
 
 
